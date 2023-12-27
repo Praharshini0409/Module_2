@@ -1,0 +1,20 @@
+function makemultiplier(multiplier) {
+    return
+    var speakword = "Hi";
+    var name = "Likitha";
+
+    function speak(name) {
+        console.log(speakword + "" + name);
+
+    }
+
+}
+speak goodbye.js(function(window) {
+        var hellospeaker = {};
+        var name = "likitha";
+        var speakword = "hello";
+        hellospeaker.speak = function(name) {
+            console.log(speakword + "" + name);
+            window.hellospeaker = hellospeaker;
+        })(window;)
+}
